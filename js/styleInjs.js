@@ -4,7 +4,7 @@ for(const section of sections){
     section.style.border = '2px solid red';
     section.style.marginBottom = '5px' ;
     section.style.borderRadius = '15px' ;
-    section.style.backgroundColor = 'lightgrey' ;
+    section.style.backgroundColor = 'grey' ;
 }
 
 //specific id dhore style..
